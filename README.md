@@ -1,3 +1,12 @@
+# 此变体：
+添加支持XPU（Intel-GPU）
+
+代码确认没有问题可以运行
+
+目前无法确定部署Torch+XPU方法
+
+建议参考[torch-test-xpu](https://github.com/Stanley5249/torch-test-xpu)部署
+
 ## Models
 [台版轻小说翻译模型v1.2（日本語 → 繁體中文）](https://drive.google.com/file/d/1eUh7J6WOEujLrQSBO1gV6tpbLMvzIkRF/view?usp=sharing)
 

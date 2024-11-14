@@ -1,6 +1,5 @@
-pyqt6~=6.7.1
-opencc~=1.1.9
-requests~=2.32.3
-openai~=1.54.4
-torch~=2.5.1+xpu
-tqdm~=4.67.0
+pyqt6
+opencc
+requests
+openai
+tqdm
